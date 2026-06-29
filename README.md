@@ -1,4 +1,4 @@
-```markdown
+
 # 🌏 Trevia — Smart Travel Planning for India
 
 > Discover places. Plan smarter. Travel better.
