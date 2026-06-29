@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150">
+  <style>
+    .title { fill: white; font-family: Arial, sans-serif; font-weight: bold; }
+    .subtitle { fill: #7FD3F7; font-family: Arial, sans-serif; }
+  </style>
+  <text x="30" y="70" class="title" font-size="40">TREVIA</text>
+  <text x="32" y="100" class="subtitle" font-size="18">Your Indian Travel Companion</text>
+</svg> 

@@ -1,0 +1,21 @@
+Free India Travel Videos for Background:
+
+1. Pexels Video Options:
+   - https://www.pexels.com/video/an-aerial-view-of-taj-mahal-2740977/
+   - https://www.pexels.com/video/drone-footage-of-jaipur-rajasthan-india-5078652/
+   - https://www.pexels.com/video/aerial-view-of-jaipur-city-rajasthan-india-8875478/
+   - https://www.pexels.com/video/aerial-footage-of-udaipur-rajasthan-india-5078643/
+
+2. Pixabay Video Options:
+   - https://pixabay.com/videos/taj-mahal-agra-india-monument-16313/
+   - https://pixabay.com/videos/india-gate-new-delhi-india-landmark-42090/
+   - https://pixabay.com/videos/kerala-india-backwaters-nature-36195/
+   - https://pixabay.com/videos/houseboat-kerala-backwaters-india-17633/
+
+Instructions:
+1. Download one of these videos
+2. Rename it to "india-travel-background.mp4"
+3. Save it in this directory (public/videos/)
+4. Refresh your browser to see the video background
+
+Note: Make sure the video is small enough (ideally under 10MB) to not slow down your site loading. 
